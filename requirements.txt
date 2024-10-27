@@ -6,7 +6,7 @@ azure-functions
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==2.3.1+cpu
 torchvision==0.18.1+cpu
-sqlite3=3.35.0
+sqlite3==3.35.0
 sentence-transformers==3.0.1
 langchain==0.2.14
 langchain-chroma==0.1.3
